@@ -1,5 +1,5 @@
 import { Fragment, useState } from "react";
-import uuid from "uuid/v3";
+import uuid from "uuid/dist/v4";
 
 const Formulario = ({ crearCitas }) => {
   //crear state de citas
@@ -44,7 +44,7 @@ const Formulario = ({ crearCitas }) => {
     cita.id = uuid();
 
     //crear Cita
-    crearCita(cita);
+    crearCitas(cita);
 
     //reiniciar Form
     actualizarCita({
