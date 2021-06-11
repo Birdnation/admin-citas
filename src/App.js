@@ -6,8 +6,8 @@ function App() {
   const [citas, guardarCitas] = useState([]);
 
   //funcion para tomas las citas actuales y agregar una nueva
-  const crearCita = (cita) => {
-    guardarCitas([...citas,cita])
+  const crearCitas = (cita) => {
+    guardarCitas([...citas, cita]);
   };
 
   return (
@@ -16,7 +16,7 @@ function App() {
       <div className="container">
         <div className="row">
           <div className="one-half column">
-            <Formulario crearCita={crearCita} />
+            <Formulario crearCitas={crearCitas} />
           </div>
           <div className="one-half column">2</div>
         </div>
