@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Birdnation/admin-citas/static/css/main.70fc2540.chunk.css",
+    "main.js": "/Birdnation/admin-citas/static/js/main.208c6cbe.chunk.js",
+    "main.js.map": "/Birdnation/admin-citas/static/js/main.208c6cbe.chunk.js.map",
+    "runtime-main.js": "/Birdnation/admin-citas/static/js/runtime-main.fbb18c32.js",
+    "runtime-main.js.map": "/Birdnation/admin-citas/static/js/runtime-main.fbb18c32.js.map",
+    "static/js/2.ea78956c.chunk.js": "/Birdnation/admin-citas/static/js/2.ea78956c.chunk.js",
+    "static/js/2.ea78956c.chunk.js.map": "/Birdnation/admin-citas/static/js/2.ea78956c.chunk.js.map",
+    "static/js/3.3c4d5f38.chunk.js": "/Birdnation/admin-citas/static/js/3.3c4d5f38.chunk.js",
+    "static/js/3.3c4d5f38.chunk.js.map": "/Birdnation/admin-citas/static/js/3.3c4d5f38.chunk.js.map",
+    "index.html": "/Birdnation/admin-citas/index.html",
+    "static/css/main.70fc2540.chunk.css.map": "/Birdnation/admin-citas/static/css/main.70fc2540.chunk.css.map",
+    "static/js/2.ea78956c.chunk.js.LICENSE.txt": "/Birdnation/admin-citas/static/js/2.ea78956c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbb18c32.js",
+    "static/js/2.ea78956c.chunk.js",
+    "static/css/main.70fc2540.chunk.css",
+    "static/js/main.208c6cbe.chunk.js"
+  ]
+}
